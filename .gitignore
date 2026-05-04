@@ -1,4 +1,5 @@
 .venv/
 data/*
-!data/.gitkeep__pycache__/
+!data/.gitkeep
+__pycache__/
 *.pyc
